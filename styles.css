@@ -1,0 +1,58 @@
+div {
+    width: "1000%";
+    height: "500%";
+
+
+}
+
+
+i {
+    color: rgb(1, 10, 12);
+}
+
+b {
+    margin: 1px;
+    color: rgb(12, 6, 9);
+}
+
+nav {
+
+    width: 100%;
+    overflow: auto
+}
+
+a {
+    float: left;
+    padding: 12px;
+    color: rgb(12, 9, 9);
+    text-decoration: wavy;
+    font-size: 17px;
+    width: 10%;
+
+    text-align: center;
+
+}
+
+a:hover {
+    background-color: rgb(67, 155, 103);
+
+}
+
+a.active {
+    background-color: #9fb6ae;
+}
+
+iframe {
+    background-image: url('back5.jpg ');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    border-collapse: collapse;
+}
+
+body {
+    background-image: url('back5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
