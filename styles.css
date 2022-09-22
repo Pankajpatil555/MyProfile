@@ -4,10 +4,13 @@ div {
 
 
 }
+header{
+    background-color: rgb(10, 170, 130);
+}
 
 
 i {
-    color: rgb(1, 10, 12);
+    color: rgb(140, 222, 240);
 }
 
 b {
@@ -18,16 +21,19 @@ b {
 nav {
 
     width: 100%;
+    background-color: black;
     overflow: auto
+    
 }
 
 a {
     float: left;
     padding: 12px;
-    color: rgb(12, 9, 9);
+    color: rgb(250, 248, 248);
     text-decoration: wavy;
     font-size: 17px;
     width: 10%;
+
 
     text-align: center;
 
