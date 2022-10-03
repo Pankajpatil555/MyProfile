@@ -4,25 +4,24 @@ div {
 
 
 }
-header{
+header,i,b{
     background-color: rgb(10, 170, 130);
-}
-
-
-i {
     color: rgb(140, 222, 240);
-}
-
-b {
     margin: 1px;
     color: rgb(12, 6, 9);
 }
+
+
+
+
+
 
 nav {
 
     width: 100%;
     background-color: black;
-    overflow: auto
+    overflow: auto;
+    
     
 }
 
@@ -61,4 +60,14 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+}
+#tt{
+    text-align:center;
+    padding-left: 40px;
+}
+#number{
+    padding-left: 10cm;
+}
+#uu{
+    padding-left: 10cm;
 }
